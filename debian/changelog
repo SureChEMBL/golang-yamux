@@ -1,0 +1,24 @@
+golang-github-hashicorp-yamux (0.0~git20151129.0.df94978-2) unstable; urgency=medium
+
+  [ Paul Tagliamonte ]
+  * Team upload.
+  * Use a secure transport for the Vcs-Git and Vcs-Browser URL
+
+  [ Konstantinos Margaritis ]
+  * Replace golang-go with golang-any in Build-Depends, remove golang-go from
+    Depends
+
+ -- Konstantinos Margaritis <markos@debian.org>  Tue, 08 Aug 2017 16:56:03 +0300
+
+golang-github-hashicorp-yamux (0.0~git20151129.0.df94978-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream snapshot.
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 06 Mar 2016 13:46:20 +1100
+
+golang-github-hashicorp-yamux (0.0~git20150917.0.ddcd0a6-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Tianon Gravi <tianon@debian.org>  Fri, 06 Nov 2015 15:00:11 -0800
